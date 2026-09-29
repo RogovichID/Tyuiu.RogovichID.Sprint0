@@ -1,13 +1,18 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.RogovichID.Sprint0.Task0.V0/Tyuiu.RogovichID.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task0.V0/Tyuiu.RogovichID.Sprint0.Task0.V0.csproj" Id="e768f468-b955-4ed1-8d14-ec4e9278ecb8" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.RogovichID.Sprint0.Task1.V0/Tyuiu.RogovichID.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task1.V0/Tyuiu.RogovichID.Sprint0.Task1.V0.csproj" Id="f061850f-0ddc-4bdc-a492-3edc3bd5cd26" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0.Lib/Tyuiu.RogovichID.Sprint0.Task2.V0.Lib.csproj" />
-    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0.Test/Tyuiu.RogovichID.Sprint0.Task2.V0.Test.csproj" />
-    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0/Tyuiu.RogovichID.Sprint0.Task2.V0.csproj" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0.Lib/Tyuiu.RogovichID.Sprint0.Task2.V0.Lib.csproj" Id="ee79fce9-093f-4f17-b2cb-49be983a5f29" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0.Test/Tyuiu.RogovichID.Sprint0.Task2.V0.Test.csproj" Id="b61fb9f8-a5b0-4fc6-82c3-7da872423a38" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task2.V0/Tyuiu.RogovichID.Sprint0.Task2.V0.csproj" Id="437d0471-5374-4a41-a245-394437d1caa8" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task3.V0.Lib/Tyuiu.RogovichID.Sprint0.Task3.V0.Lib.csproj" Id="71fd0b92-6a8b-4f55-bde2-6e877d404ad2" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task3.V0.Test/Tyuiu.RogovichID.Sprint0.Task3.V0.Test.csproj" Id="b0e655e1-5ec1-499f-82c9-323f8cf642b4" />
+    <Project Path="Tyuiu.RogovichID.Sprint0.Task3.V0/Tyuiu.RogovichID.Sprint0.Task3.V0.csproj" Id="b96ed971-d0c3-4fc4-b1d7-3b2e7d3e972f" />
   </Folder>
 </Solution>
